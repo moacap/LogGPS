@@ -34,7 +34,7 @@ import android.widget.ToggleButton;
 
 public class LogGPSActivity extends Activity {
 	
-	private static final String tag = "LogGP SActivity";
+	private static final String tag = "LogGPSActivity";
 	
 	private static final String tripFileName = "currentTrip.txt";
 	
